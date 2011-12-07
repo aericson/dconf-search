@@ -1,0 +1,5 @@
+#!/usr/bin/python2
+from dconf_search.dconf_searcher import search
+
+if __name__ == '__main__':
+    search()
